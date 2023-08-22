@@ -7,5 +7,4 @@
 - Lab5 100
 - Lab6 100
 - final project 90.32
-- final score A+
 ## In our final project, we created a running alarm with FPGA board.
